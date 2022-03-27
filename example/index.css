@@ -1,0 +1,10 @@
+.out {
+    background: pink;
+}
+
+.out .inner {
+    font-size: 20px;
+    font-weight: bold;
+    background: #8bc34a;
+    opacity: 0.5;
+}
