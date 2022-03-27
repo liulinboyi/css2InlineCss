@@ -1,4 +1,4 @@
-# 将css转换为行内css（Convert css to in-line css）
+# 在浏览器中将css转换为行内css(行内样式)（Convert css to in-line css (in-line styles) in the browser）
 
 ```html
 <!DOCTYPE html>
